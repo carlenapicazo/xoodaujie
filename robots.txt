@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bevianahv.getcarrier.io/sitemap.xml
